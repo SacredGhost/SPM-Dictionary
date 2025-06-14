@@ -1,11 +1,6 @@
 from enum import Enum
-
-try:
-    from SPMDictionary.bighexlist import HexList
-    from SPMDictionary.enemylist import EnemyList
-except ImportError:
-    from bighexlist import HexList
-    from enemylist import EnemyList
+from spm_dictionary.bighexlist import HexList
+from spm_dictionary.enemylist import EnemyList
 
 class Map():
     def __init__(self, MapType, MapEnemies, MapItems, ShopItems, MapEntrance):
@@ -334,7 +329,7 @@ MapList = {
         MapEntrance (
             Entrance ("default", EntranceType.DEFAULT, Location (-1575, 0, -498), None, EntranceKey (False, False, None)),
             Entrance ("dokan_05", EntranceType.PIPE, Location (275, 50, 460), EntranceDest ("an1_06", [("an1_09", "dokan_01", 0)]), EntranceKey (True, False, None)),
-            Entrance ("doa1_l", EntranceType.DOOR, Location (-1550, 0, -550), EntranceDest ("an1_06", [("an1_04", "doa3_l", 0)]), EntranceKey (True, False, None)),
+            Entrance ("doa1_l", EntranceType.DOOR, Location (-1550, 0, -550), EntranceDest ("an1_06", [("an1_03", "doa3_l", 0)]), EntranceKey (True, False, None)),
             Entrance ("doa2_l", EntranceType.DOOR, Location (450, 0, 460), EntranceDest ("an1_06", [("an1_07", "doa1_l", 0)]), EntranceKey (True, False, None))
         )
     ),
@@ -557,6 +552,13 @@ MapList = {
         MapEntrance (
             Entrance ("default", EntranceType.DEFAULT, Location (0, 0, 0), None, EntranceKey (False, False, None)),
             Entrance ("dokan_1", EntranceType.PIPE, Location (-214, 0, -132), EntranceDest ("an2_10" [("an2_05", "dokan_1", 0)]), EntranceKey (True, False, None))
+        )
+    ),
+    'an3_01':Map (
+        MapType.MAIN,
+        MapEnemies (
+            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 0, 2325, -62)),
+            
         )
     ),
     'mac_02':Map (

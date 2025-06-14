@@ -1,7 +1,11 @@
 from enum import Enum
 from typing import Any
 import dolphin_memory_engine as dme
-import time
+# import time
+
+# Default settings for things not hooking with DME
+game_region = "E"
+game_revision = 0
 
 class Datatype(Enum):
     BYTE = 1
@@ -112,36 +116,36 @@ class BitFieldMemoryWatch(MemoryWatch):
             res &= ~self.bitmask
         accessors[1](self.address, res)
 
-dme.hook()
+# dme.hook()
 
 # game_region = chr(dme.read_byte(0x80000003))
 # game_revision = dme.read_byte(0x80000007)
 
-if not dme.is_hooked():
-    print(f'{"[" + "Console" + "]":>15} Not hooked to an instance of SPM, defaulting to us0.')
-    game_region = 'E'
-    game_revision = 0
-    # while not dme.is_hooked():
-    #     time.sleep(5)
-    #     dme.hook()
-    # print(f'{"[" + "Console" + "]":>15} Hooked... Changing Regional Differences')
-    # game_region = chr(dme.read_byte(0x80000003))
-    # game_revision = dme.read_byte(0x80000007)
-else: 
-    print(f'{"[" + "Console" + "]":>15} Hooked... Changing Regional Differences')
-    game_region = chr(dme.read_byte(0x80000003))
-    game_revision = dme.read_byte(0x80000007)
+# if not dme.is_hooked():
+#     print(f'{"[" + "Console" + "]":>15} Not hooked to an instance of SPM, defaulting to us0.')
+#     game_region = 'E'
+#     game_revision = 0
+#     # while not dme.is_hooked():
+#     #     time.sleep(5)
+#     #     dme.hook()
+#     # print(f'{"[" + "Console" + "]":>15} Hooked... Changing Regional Differences')
+#     # game_region = chr(dme.read_byte(0x80000003))
+#     # game_revision = dme.read_byte(0x80000007)
+# else: 
+#     print(f'{"[" + "Console" + "]":>15} Hooked... Changing Regional Differences')
+#     game_region = chr(dme.read_byte(0x80000003))
+#     game_revision = dme.read_byte(0x80000007)
 
-def get_address(name: str) -> int:
-    return watches[name]["addresses"][game_region][game_revision]
+# def get_address(name: str) -> int:
+#     return watches[name]["addresses"][game_region][game_revision]
 
-def get_watch(name: str) -> MemoryWatch:
-    watch = watches[name]
-    address = watch["addresses"][game_region][game_revision]
-    if watch["datatype"] == Datatype.BYTEARRAY:
-        return ByteArrayMemoryWatch(address, watch["size"])
-    return MemoryWatch(address, watch["datatype"])
+# def get_watch(name: str) -> MemoryWatch:
+#     watch = watches[name]
+#     address = watch["addresses"][game_region][game_revision]
+#     if watch["datatype"] == Datatype.BYTEARRAY:
+#         return ByteArrayMemoryWatch(address, watch["size"])
+#     return MemoryWatch(address, watch["datatype"])
 
-watches = {
+# watches = {
 
-}
+# }

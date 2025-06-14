@@ -1,9 +1,5 @@
-try:
-    from SPMDictionary.bighexlist import HexList
-    from SPMDictionary.watches import game_region, game_revision
-except ImportError:
-    from bighexlist import HexList
-    from watches import game_region, game_revision
+from spm_dictionary.bighexlist import HexList
+from spm_dictionary.watches import game_region, game_revision
 
 class EnemyEntry():
     def __init__ (self, EnemyName, EnemyData, EnemyID, DropTemplate, DropPercent, EnemyDrops):
@@ -110,7 +106,7 @@ EnemyList = {
                 'Card Shop; Catch Card/SP; Chapter 1-1: Found in 3D behind a tall pipe in the second area.',
                 '★',
             ),
-            'https://cdn.discordapp.com/attachments/885679610191298570/885701365622530089/Goomba.png'
+            ''
         ),
         0x11A,
         'Template 1',
