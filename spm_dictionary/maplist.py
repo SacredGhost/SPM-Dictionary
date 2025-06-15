@@ -391,7 +391,7 @@ MapList = {
     'an1_11':Map (
         MapType.USELESS,
         MapEnemies (
-            Enemy ("Gigabite", EnemyList["265"], EnemyLocation (EnemyState.IN2D, 100, 50, 0), 0)
+            Enemy ("Gigabite", EnemyList["265"], EnemyLocation (EnemyState.IN2D, 100, 50, 0))
         ),
         MapItems (
             Item (HexList["Peach (3) Card"], HexPos (ItemState.CHEST, 0, 0, 0), 0)
