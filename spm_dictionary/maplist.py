@@ -218,7 +218,7 @@ MapList = {
         None,
         MapEntrance (
             Entrance ("default", EntranceType.DEFAULT, Location (-590, 0, 0), None, EntranceKey (False, False, None)),
-            Entrance ("doa1_l", EntranceType.DOOR, Location (625, 0, 0), EntranceDest ("an1_01" [("an1_02", "doa1_l", 0)]), EntranceKey (True, False, None)),
+            Entrance ("doa1_l", EntranceType.DOOR, Location (625, 0, 0), EntranceDest ("an1_01", [("an1_02", "doa1_l", 0)]), EntranceKey (True, False, None)),
             Entrance ("doa7_l", EntranceType.DOOR, Location (-570, 0, 0), None, EntranceKey (True, False, None))
         )
     ),
@@ -558,8 +558,19 @@ MapList = {
         MapType.MAIN,
         MapEnemies (
             Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 0, 2325, -62)),
-            
-        )
+            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -62, 2300, -87)),
+            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 725, 2237, 0)),
+            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -700, 1375, 25)),
+            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -700, 1350, 75)),
+            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 275, 1850, 0)),
+            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, -300, 1125, -37)),
+            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN3D, 175, 2075, 125)),
+            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN3D, 212, 2050, 125)),
+            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -75, 275, -50)),
+            Enemy ("Ice Cherbil", EnemyList["413"], EnemyLocation (EnemyState.IN2D, -175, 450, 12)),
+            Enemy ("Ice Cherbil", EnemyList["413"], EnemyLocation (EnemyState.IN2D, -550, 1100, -12))
+        ),
+
     ),
     'mac_02':Map (
         MapType.MAIN,

@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='spm_dictionary',
-    version='0.1.1',
+    version='0.1.1.1',
     packages=find_packages(),
     include_package_data=True,
     package_data={
