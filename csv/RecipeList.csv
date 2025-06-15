@@ -289,12 +289,12 @@ Dyllis Breakfast,Hamburger,Super Shroom Shake
 Dyllis Breakfast,Hamburger,Life Shroom
 Dyllis Breakfast,Hamburger,Slimy Shroom
 Dyllis Breakfast,Hot Dog,Fried Egg
-Dyllis Breakfast,Spit Roast,Shroom Shake
-Dyllis Breakfast,Spit Roast,Long-Last Shake
-Dyllis Breakfast,Spit Roast,Volt Shroom
-Dyllis Breakfast,Spit Roast,Super Shroom Shake
-Dyllis Breakfast,Spit Roast,Life Shroom
-Dyllis Breakfast,Spit Roast,Slimy Shroom
+Dyllis Breakfast,Spit Roast / Roast Meat,Shroom Shake
+Dyllis Breakfast,Spit Roast / Roast Meat,Long-Last Shake
+Dyllis Breakfast,Spit Roast / Roast Meat,Volt Shroom
+Dyllis Breakfast,Spit Roast / Roast Meat,Super Shroom Shake
+Dyllis Breakfast,Spit Roast / Roast Meat,Life Shroom
+Dyllis Breakfast,Spit Roast / Roast Meat,Slimy Shroom
 Dyllis Breakfast,Healthy Salad,Fried Shroom Plate
 Dyllis Breakfast,Healthy Salad,Shroom Delicacy
 Dyllis Breakfast,Healthy Salad,Volcano Shroom
@@ -446,7 +446,7 @@ Dyllis Deluxe,Shroom Steak,Roast Shroom Dish
 Dyllis Deluxe,Fruity Hamburger,Shroom Steak
 Dyllis Deluxe,Gorgeous Steak,Shroom Steak
 Dyllis Deluxe,Hot Dog,Shroom Steak
-Dyllis Deluxe,Spit Roast,Shroom Steak
+Dyllis Deluxe,Spit Roast / Roast Meat,Shroom Steak
 Dyllis Deluxe,Meat Pasta Dish,Shroom Steak
 Dyllis Deluxe,Ink Pasta Dish,Shroom Steak
 Dyllis Deluxe,Koopasta Dish,Shroom Steak
@@ -472,68 +472,68 @@ Dyllis Dinner,Gorgeous Steak,Hamburger
 Dyllis Dinner,Gorgeous Steak,Fruity Hamburger
 Dyllis Dinner,Hot Dog,Ultra Shroom Shake
 Dyllis Dinner,Hot Dog,Fried Shroom Plate
-Dyllis Dinner,Spit Roast,Fried Shroom Plate
-Dyllis Dinner,Spit Roast,Fried Egg
-Dyllis Dinner,Spit Roast,Omelette Plate
-Dyllis Dinner,Spit Roast,Hamburger
-Dyllis Dinner,Spit Roast,Fruity Hamburger
-Dyllis Dinner,Spit Roast,Gorgeous Steak
+Dyllis Dinner,Spit Roast / Roast Meat,Fried Shroom Plate
+Dyllis Dinner,Spit Roast / Roast Meat,Fried Egg
+Dyllis Dinner,Spit Roast / Roast Meat,Omelette Plate
+Dyllis Dinner,Spit Roast / Roast Meat,Hamburger
+Dyllis Dinner,Spit Roast / Roast Meat,Fruity Hamburger
+Dyllis Dinner,Spit Roast / Roast Meat,Gorgeous Steak
 Dyllis Dinner,Healthy Salad,Shroom Steak
-Dyllis Dinner,Healthy Salad,Spit Roast
+Dyllis Dinner,Healthy Salad,Spit Roast / Roast Meat
 Dyllis Dinner,Veggie Set,Roast Shroom Dish
 Dyllis Dinner,Veggie Set,Fruity Hamburger
 Dyllis Dinner,Veggie Set,Gorgeous Steak
-Dyllis Dinner,Veggie Set,Spit Roast
+Dyllis Dinner,Veggie Set,Spit Roast / Roast Meat
 Dyllis Dinner,Spaghetti Plate,Roast Shroom Dish
 Dyllis Dinner,Spaghetti Plate,Fruity Hamburger
 Dyllis Dinner,Spaghetti Plate,Gorgeous Steak
-Dyllis Dinner,Spaghetti Plate,Spit Roast
+Dyllis Dinner,Spaghetti Plate,Spit Roast / Roast Meat
 Dyllis Dinner,Meat Pasta Dish,Ultra Shroom Shake
 Dyllis Dinner,Meat Pasta Dish,Fried Shroom Plate
 Dyllis Dinner,Meat Pasta Dish,Fruity Hamburger
 Dyllis Dinner,Meat Pasta Dish,Gorgeous Steak
-Dyllis Dinner,Meat Pasta Dish,Spit Roast
+Dyllis Dinner,Meat Pasta Dish,Spit Roast / Roast Meat
 Dyllis Dinner,Spicy Pasta Dish,Ultra Shroom Shake
 Dyllis Dinner,Spicy Pasta Dish,Roast Shroom Dish
 Dyllis Dinner,Spicy Pasta Dish,Fruity Hamburger
 Dyllis Dinner,Spicy Pasta Dish,Gorgeous Steak
-Dyllis Dinner,Spicy Pasta Dish,Spit Roast
+Dyllis Dinner,Spicy Pasta Dish,Spit Roast / Roast Meat
 Dyllis Dinner,Ink Pasta Dish,Ultra Shroom Shake
 Dyllis Dinner,Ink Pasta Dish,Fried Shroom Plate
 Dyllis Dinner,Ink Pasta Dish,Fruity Hamburger
 Dyllis Dinner,Ink Pasta Dish,Gorgeous Steak
-Dyllis Dinner,Ink Pasta Dish,Spit Roast
+Dyllis Dinner,Ink Pasta Dish,Spit Roast / Roast Meat
 Dyllis Dinner,Koopasta Dish,Ultra Shroom Shake
 Dyllis Dinner,Koopasta Dish,Fried Shroom Plate
 Dyllis Dinner,Koopasta Dish,Fruity Hamburger
 Dyllis Dinner,Koopasta Dish,Gorgeous Steak
-Dyllis Dinner,Koopasta Dish,Spit Roast
+Dyllis Dinner,Koopasta Dish,Spit Roast / Roast Meat
 Dyllis Dinner,Choco Pasta Dish,Ultra Shroom Shake
 Dyllis Dinner,Choco Pasta Dish,Roast Shroom Dish
 Dyllis Dinner,Choco Pasta Dish,Fruity Hamburger
 Dyllis Dinner,Choco Pasta Dish,Gorgeous Steak
-Dyllis Dinner,Choco Pasta Dish,Spit Roast
+Dyllis Dinner,Choco Pasta Dish,Spit Roast / Roast Meat
 Dyllis Dinner,Love Noodle Dish,Ultra Shroom Shake
 Dyllis Dinner,Love Noodle Dish,Fried Shroom Plate
 Dyllis Dinner,Love Noodle Dish,Fruity Hamburger
 Dyllis Dinner,Love Noodle Dish,Gorgeous Steak
-Dyllis Dinner,Love Noodle Dish,Spit Roast
+Dyllis Dinner,Love Noodle Dish,Spit Roast / Roast Meat
 Dyllis Dinner,Roast Horsetail,Shroom Steak
 Dyllis Dinner,Roast Whacka Bump,Fried Shroom Plate
 Dyllis Dinner,Roast Whacka Bump,Fruity Hamburger
 Dyllis Dinner,Roast Whacka Bump,Gorgeous Steak
-Dyllis Dinner,Roast Whacka Bump,Spit Roast
+Dyllis Dinner,Roast Whacka Bump,Spit Roast / Roast Meat
 Dyllis Dinner,Spicy Soup,Shroom Steak
 Dyllis Dinner,Spicy Soup,Gorgeous Steak
 Dyllis Dinner,Inky Soup,Roast Shroom Dish
 Dyllis Dinner,Inky Soup,Fruity Hamburger
 Dyllis Dinner,Inky Soup,Gorgeous Steak
-Dyllis Dinner,Inky Soup,Spit Roast
+Dyllis Dinner,Inky Soup,Spit Roast / Roast Meat
 Dyllis Dinner,Spicy Dinner,Roast Shroom Dish
 Dyllis Dinner,Golden Meal,Fried Shroom Plate
 Dyllis Dinner,Golden Meal,Fruity Hamburger
 Dyllis Dinner,Golden Meal,Gorgeous Steak
-Dyllis Dinner,Golden Meal,Spit Roast
+Dyllis Dinner,Golden Meal,Spit Roast / Roast Meat
 Dyllis Dinner,Golden Meal,Spaghetti Plate
 Dyllis Dinner,Golden Meal,Meat Pasta Dish
 Dyllis Dinner,Golden Meal,Spicy Pasta Dish
@@ -616,10 +616,10 @@ Dyllis Lunch,Hot Dog,Omelette Plate
 Dyllis Lunch,Hot Dog,Hamburger
 Dyllis Lunch,Hot Dog,Fruity Hamburger
 Dyllis Lunch,Hot Dog,Gorgeous Steak
-Dyllis Lunch,Spit Roast,Ultra Shroom Shake
-Dyllis Lunch,Spit Roast,Shroom Delicacy
-Dyllis Lunch,Spit Roast,Volcano Shroom
-Dyllis Lunch,Spit Roast,Hot Dog
+Dyllis Lunch,Spit Roast / Roast Meat,Ultra Shroom Shake
+Dyllis Lunch,Spit Roast / Roast Meat,Shroom Delicacy
+Dyllis Lunch,Spit Roast / Roast Meat,Volcano Shroom
+Dyllis Lunch,Spit Roast / Roast Meat,Hot Dog
 Dyllis Lunch,Healthy Salad,Roast Shroom Dish
 Dyllis Lunch,Healthy Salad,Fruity Hamburger
 Dyllis Lunch,Healthy Salad,Gorgeous Steak
@@ -746,7 +746,7 @@ Dyllis Lunch,Roast Horsetail,Ultra Shroom Shake
 Dyllis Lunch,Roast Horsetail,Roast Shroom Dish
 Dyllis Lunch,Roast Horsetail,Fruity Hamburger
 Dyllis Lunch,Roast Horsetail,Gorgeous Steak
-Dyllis Lunch,Roast Horsetail,Spit Roast
+Dyllis Lunch,Roast Horsetail,Spit Roast / Roast Meat
 Dyllis Lunch,Roast Horsetail,Meat Pasta Dish
 Dyllis Lunch,Roast Horsetail,Spicy Pasta Dish
 Dyllis Lunch,Roast Horsetail,Ink Pasta Dish
@@ -773,7 +773,7 @@ Dyllis Lunch,Roast Whacka Bump,Roast Horsetail
 Dyllis Lunch,Spicy Soup,Ultra Shroom Shake
 Dyllis Lunch,Spicy Soup,Roast Shroom Dish
 Dyllis Lunch,Spicy Soup,Fruity Hamburger
-Dyllis Lunch,Spicy Soup,Spit Roast
+Dyllis Lunch,Spicy Soup,Spit Roast / Roast Meat
 Dyllis Lunch,Spicy Soup,Meat Pasta Dish
 Dyllis Lunch,Spicy Soup,Spicy Pasta Dish
 Dyllis Lunch,Spicy Soup,Ink Pasta Dish
@@ -793,7 +793,7 @@ Dyllis Lunch,Spicy Dinner,Shroom Delicacy
 Dyllis Lunch,Spicy Dinner,Volcano Shroom
 Dyllis Lunch,Spicy Dinner,Fruity Hamburger
 Dyllis Lunch,Spicy Dinner,Gorgeous Steak
-Dyllis Lunch,Spicy Dinner,Spit Roast
+Dyllis Lunch,Spicy Dinner,Spit Roast / Roast Meat
 Dyllis Lunch,Spicy Dinner,Roast Horsetail
 Dyllis Lunch,Spicy Dinner,Roast Whacka Bump
 Dyllis Lunch,Spicy Dinner,Spicy Soup
@@ -814,7 +814,7 @@ Dyllis Lunch,Block Meal,Ultra Shroom Shake
 Dyllis Lunch,Block Meal,Fried Shroom Plate
 Dyllis Lunch,Block Meal,Fruity Hamburger
 Dyllis Lunch,Block Meal,Gorgeous Steak
-Dyllis Lunch,Block Meal,Spit Roast
+Dyllis Lunch,Block Meal,Spit Roast / Roast Meat
 Dyllis Lunch,Block Meal,Meat Pasta Dish
 Dyllis Lunch,Block Meal,Spicy Pasta Dish
 Dyllis Lunch,Block Meal,Ink Pasta Dish
@@ -830,7 +830,7 @@ Dyllis Lunch,Primordial Dinner,Shroom Delicacy
 Dyllis Lunch,Primordial Dinner,Volcano Shroom
 Dyllis Lunch,Primordial Dinner,Fruity Hamburger
 Dyllis Lunch,Primordial Dinner,Gorgeous Steak
-Dyllis Lunch,Primordial Dinner,Spit Roast
+Dyllis Lunch,Primordial Dinner,Spit Roast / Roast Meat
 Dyllis Lunch,Primordial Dinner,Roast Whacka Bump
 Dyllis Lunch,Primordial Dinner,Spicy Dinner
 Dyllis Lunch,Koopa Pilaf,Ultra Shroom Shake
@@ -839,7 +839,7 @@ Dyllis Lunch,Koopa Pilaf,Shroom Delicacy
 Dyllis Lunch,Koopa Pilaf,Volcano Shroom
 Dyllis Lunch,Koopa Pilaf,Fruity Hamburger
 Dyllis Lunch,Koopa Pilaf,Gorgeous Steak
-Dyllis Lunch,Koopa Pilaf,Spit Roast
+Dyllis Lunch,Koopa Pilaf,Spit Roast / Roast Meat
 Dyllis Lunch,Koopa Pilaf,Roast Whacka Bump
 Dyllis Lunch,Koopa Pilaf,Spicy Dinner
 Dyllis Special,Shroom Steak,Fried Shroom Plate
@@ -850,7 +850,7 @@ Dyllis Special,Hamburger,Shroom Steak
 Dyllis Special,Fruity Hamburger,Roast Shroom Dish
 Dyllis Special,Gorgeous Steak,Roast Shroom Dish
 Dyllis Special,Hot Dog,Roast Shroom Dish
-Dyllis Special,Spit Roast,Roast Shroom Dish
+Dyllis Special,Spit Roast / Roast Meat,Roast Shroom Dish
 Dyllis Special,Veggie Set,Shroom Steak
 Dyllis Special,Spaghetti Plate,Shroom Steak
 Dyllis Special,Meat Pasta Dish,Roast Shroom Dish
@@ -881,7 +881,7 @@ Dyllis Special,Miracle Dinner,Hamburger
 Dyllis Special,Miracle Dinner,Fruity Hamburger
 Dyllis Special,Miracle Dinner,Gorgeous Steak
 Dyllis Special,Miracle Dinner,Hot Dog
-Dyllis Special,Miracle Dinner,Spit Roast
+Dyllis Special,Miracle Dinner,Spit Roast / Roast Meat
 Dyllis Special,Miracle Dinner,Healthy Salad
 Dyllis Special,Miracle Dinner,Veggie Set
 Dyllis Special,Miracle Dinner,Spaghetti Plate
@@ -1115,7 +1115,7 @@ Fruity Hamburger,Hamburger,Primordial Fruit
 Fruity Hamburger,Hamburger,Fruity Punch
 Fruity Hamburger,Gorgeous Steak,Primordial Fruit
 Fruity Hamburger,Hot Dog,Primordial Fruit
-Fruity Hamburger,Spit Roast,Primordial Fruit
+Fruity Hamburger,Spit Roast / Roast Meat,Primordial Fruit
 Fruity Punch,Keel Mango,Peachy Peach
 Fruity Punch,Blue Apple,Mighty Tonic
 Fruity Punch,Blue Apple,Peachy Peach
@@ -1361,8 +1361,8 @@ Gorgeous Steak,Hamburger,Power Steak
 Gorgeous Steak,Hamburger,Bone-In Cut
 Gorgeous Steak,Fruity Hamburger,Power Steak
 Gorgeous Steak,Fruity Hamburger,Bone-In Cut
-Gorgeous Steak,Spit Roast,Power Steak
-Gorgeous Steak,Spit Roast,Bone-In Cut
+Gorgeous Steak,Spit Roast / Roast Meat,Power Steak
+Gorgeous Steak,Spit Roast / Roast Meat,Bone-In Cut
 Gradual Syrup,Peachy Peach,Long-Last Shake
 Gradual Syrup,Keel Mango,Long-Last Shake
 Gradual Syrup,Blue Apple,Long-Last Shake
@@ -1542,7 +1542,7 @@ Hot Dog,Horsetail,Bone-In Cut
 Hot Dog,Hamburger,Big Egg
 Hot Dog,Fruity Hamburger,Big Egg
 Hot Dog,Gorgeous Steak,Big Egg
-Hot Dog,Spit Roast,Big Egg
+Hot Dog,Spit Roast / Roast Meat,Big Egg
 Ink Pasta Dish,Inky Sauce,Fresh Pasta Bunch
 Ink Pasta Dish,Spaghetti Plate,Inky Sauce
 Ink Pasta Dish,Meat Pasta Dish,Inky Sauce
@@ -1685,7 +1685,7 @@ Luxurious Set,Dyllis Dinner,Hamburger
 Luxurious Set,Dyllis Dinner,Fruity Hamburger
 Luxurious Set,Dyllis Dinner,Gorgeous Steak
 Luxurious Set,Dyllis Dinner,Hot Dog
-Luxurious Set,Dyllis Dinner,Spit Roast
+Luxurious Set,Dyllis Dinner,Spit Roast / Roast Meat
 Luxurious Set,Dyllis Dinner,Healthy Salad
 Luxurious Set,Dyllis Dinner,Veggie Set
 Luxurious Set,Dyllis Dinner,Spaghetti Plate
@@ -1716,7 +1716,7 @@ Luxurious Set,Dyllis Special,Hamburger
 Luxurious Set,Dyllis Special,Fruity Hamburger
 Luxurious Set,Dyllis Special,Gorgeous Steak
 Luxurious Set,Dyllis Special,Hot Dog
-Luxurious Set,Dyllis Special,Spit Roast
+Luxurious Set,Dyllis Special,Spit Roast / Roast Meat
 Luxurious Set,Dyllis Special,Healthy Salad
 Luxurious Set,Dyllis Special,Veggie Set
 Luxurious Set,Dyllis Special,Spaghetti Plate
@@ -1747,7 +1747,7 @@ Luxurious Set,Dyllis Deluxe,Hamburger
 Luxurious Set,Dyllis Deluxe,Fruity Hamburger
 Luxurious Set,Dyllis Deluxe,Gorgeous Steak
 Luxurious Set,Dyllis Deluxe,Hot Dog
-Luxurious Set,Dyllis Deluxe,Spit Roast
+Luxurious Set,Dyllis Deluxe,Spit Roast / Roast Meat
 Luxurious Set,Dyllis Deluxe,Healthy Salad
 Luxurious Set,Dyllis Deluxe,Veggie Set
 Luxurious Set,Dyllis Deluxe,Spaghetti Plate
@@ -1783,7 +1783,7 @@ Meat Pasta Dish,Hamburger,Fresh Pasta Bunch
 Meat Pasta Dish,Fruity Hamburger,Fresh Pasta Bunch
 Meat Pasta Dish,Gorgeous Steak,Fresh Pasta Bunch
 Meat Pasta Dish,Hot Dog,Fresh Pasta Bunch
-Meat Pasta Dish,Spit Roast,Fresh Pasta Bunch
+Meat Pasta Dish,Spit Roast / Roast Meat,Fresh Pasta Bunch
 Meat Pasta Dish,Spicy Pasta Dish,Power Steak
 Meat Pasta Dish,Spicy Pasta Dish,Bone-In Cut
 Meat Pasta Dish,Ink Pasta Dish,Power Steak
@@ -1816,7 +1816,7 @@ Megaton Dinner,Hamburger,POW Block
 Megaton Dinner,Fruity Hamburger,POW Block
 Megaton Dinner,Gorgeous Steak,POW Block
 Megaton Dinner,Hot Dog,POW Block
-Megaton Dinner,Spit Roast,POW Block
+Megaton Dinner,Spit Roast / Roast Meat,POW Block
 Megaton Dinner,Veggie Set,POW Block
 Megaton Dinner,Spaghetti Plate,POW Block
 Megaton Dinner,Meat Pasta Dish,POW Block
@@ -1858,7 +1858,7 @@ Meteor Meal,Hamburger,Shooting Star
 Meteor Meal,Fruity Hamburger,Shooting Star
 Meteor Meal,Gorgeous Steak,Shooting Star
 Meteor Meal,Hot Dog,Shooting Star
-Meteor Meal,Spit Roast,Shooting Star
+Meteor Meal,Spit Roast / Roast Meat,Shooting Star
 Meteor Meal,Veggie Set,Shooting Star
 Meteor Meal,Spaghetti Plate,Shooting Star
 Meteor Meal,Meat Pasta Dish,Shooting Star
@@ -1990,7 +1990,7 @@ Mistake (Sleepy Sheep),Hamburger,Sleepy Sheep
 Mistake (Sleepy Sheep),Fruity Hamburger,Sleepy Sheep
 Mistake (Sleepy Sheep),Gorgeous Steak,Sleepy Sheep
 Mistake (Sleepy Sheep),Hot Dog,Sleepy Sheep
-Mistake (Sleepy Sheep),Spit Roast,Sleepy Sheep
+Mistake (Sleepy Sheep),Spit Roast / Roast Meat,Sleepy Sheep
 Mistake (Sleepy Sheep),Healthy Salad,Sleepy Sheep
 Mistake (Sleepy Sheep),Veggie Set,Sleepy Sheep
 Mistake (Sleepy Sheep),Spaghetti Plate,Sleepy Sheep
@@ -2138,7 +2138,7 @@ Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Hamburger
 Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Fruity Hamburger
 Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Gorgeous Steak
 Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Hot Dog
-Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Spit Roast
+Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Spit Roast / Roast Meat
 Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Healthy Salad
 Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Veggie Set
 Mistake (Sleepy Sheep),Mistake (Sleepy Sheep),Spaghetti Plate
@@ -2285,9 +2285,9 @@ Odd Dinner,Gorgeous Steak,Black Apple
 Odd Dinner,Hot Dog,Ghost Shroom
 Odd Dinner,Hot Dog,Poison Shroom
 Odd Dinner,Hot Dog,Black Apple
-Odd Dinner,Spit Roast,Ghost Shroom
-Odd Dinner,Spit Roast,Poison Shroom
-Odd Dinner,Spit Roast,Black Apple
+Odd Dinner,Spit Roast / Roast Meat,Ghost Shroom
+Odd Dinner,Spit Roast / Roast Meat,Poison Shroom
+Odd Dinner,Spit Roast / Roast Meat,Black Apple
 Odd Dinner,Veggie Set,Ghost Shroom
 Odd Dinner,Veggie Set,Poison Shroom
 Odd Dinner,Veggie Set,Black Apple
@@ -2756,21 +2756,21 @@ Spicy Pasta Dish,Spicy Dinner,Ink Pasta Dish
 Spicy Pasta Dish,Spicy Dinner,Koopasta Dish
 Spicy Pasta Dish,Spicy Dinner,Choco Pasta Dish
 Spicy Pasta Dish,Spicy Dinner,Love Noodle Dish
-Spit Roast,Bone-In Cut,None
-Spit Roast,Bone-In Cut,Fire Burst
-Spit Roast,Bone-In Cut,Shroom Shake
-Spit Roast,Bone-In Cut,Long-Last Shake
-Spit Roast,Bone-In Cut,Volt Shroom
-Spit Roast,Bone-In Cut,Super Shroom Shake
-Spit Roast,Bone-In Cut,Life Shroom
-Spit Roast,Bone-In Cut,Ultra Shroom Shake
-Spit Roast,Bone-In Cut,Slimy Shroom
-Spit Roast,Honey Jar,Bone-In Cut
-Spit Roast,Inky Sauce,Bone-In Cut
-Spit Roast,Dayzee Tear,Bone-In Cut
-Spit Roast,Sap Soup,Bone-In Cut
-Spit Roast,Smelly Herb,Bone-In Cut
-Spit Roast,Whacka Bump,Bone-In Cut
+Spit Roast / Roast Meat,Bone-In Cut,None
+Spit Roast / Roast Meat,Bone-In Cut,Fire Burst
+Spit Roast / Roast Meat,Bone-In Cut,Shroom Shake
+Spit Roast / Roast Meat,Bone-In Cut,Long-Last Shake
+Spit Roast / Roast Meat,Bone-In Cut,Volt Shroom
+Spit Roast / Roast Meat,Bone-In Cut,Super Shroom Shake
+Spit Roast / Roast Meat,Bone-In Cut,Life Shroom
+Spit Roast / Roast Meat,Bone-In Cut,Ultra Shroom Shake
+Spit Roast / Roast Meat,Bone-In Cut,Slimy Shroom
+Spit Roast / Roast Meat,Honey Jar,Bone-In Cut
+Spit Roast / Roast Meat,Inky Sauce,Bone-In Cut
+Spit Roast / Roast Meat,Dayzee Tear,Bone-In Cut
+Spit Roast / Roast Meat,Sap Soup,Bone-In Cut
+Spit Roast / Roast Meat,Smelly Herb,Bone-In Cut
+Spit Roast / Roast Meat,Whacka Bump,Bone-In Cut
 Stamina Juice,Inky Sauce,Peachy Peach
 Stamina Juice,Inky Sauce,Keel Mango
 Stamina Juice,Inky Sauce,Blue Apple
