@@ -254,7 +254,7 @@ MapList = {
             Entrance ("h_dokan_4", EntranceType.BACKPIPE, Location (664, 347, -160), EntranceDest ("an1_02", [("an1_02", "dokan_10", 0)]), EntranceKey (True, False, None)),
             Entrance ("doa1_l", EntranceType.DOOR, Location (-1050, 0, 0), EntranceDest ("an1_02", [("an1_01",  "doa1_l", 0)]), EntranceKey (True, False, None)),
             Entrance ("doa2_l", EntranceType.DOOR, Location (1100, 0, 0), EntranceDest ("an1_02", [("an1_03", "doa1_l", 0)]), EntranceKey (True, False, None)),
-            Entrance ("doa3_l", EntranceType.DOOR, Location (1100, 275, 0), EntranceDest  ("an1_02" [("an1_08", "doa1_l", 297)]), EntranceKey (True, False, None))
+            Entrance ("doa3_l", EntranceType.DOOR, Location (1100, 275, 0), EntranceDest  ("an1_02", [("an1_08", "doa1_l", 297)]), EntranceKey (True, False, None))
         )
     ),
     'an1_03':Map (
@@ -551,27 +551,26 @@ MapList = {
         None,
         MapEntrance (
             Entrance ("default", EntranceType.DEFAULT, Location (0, 0, 0), None, EntranceKey (False, False, None)),
-            Entrance ("dokan_1", EntranceType.PIPE, Location (-214, 0, -132), EntranceDest ("an2_10" [("an2_05", "dokan_1", 0)]), EntranceKey (True, False, None))
+            Entrance ("dokan_1", EntranceType.PIPE, Location (-214, 0, -132), EntranceDest ("an2_10", [("an2_05", "dokan_1", 0)]), EntranceKey (True, False, None))
         )
     ),
-    'an3_01':Map (
-        MapType.MAIN,
-        MapEnemies (
-            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 0, 2325, -62)),
-            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -62, 2300, -87)),
-            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 725, 2237, 0)),
-            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -700, 1375, 25)),
-            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -700, 1350, 75)),
-            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 275, 1850, 0)),
-            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, -300, 1125, -37)),
-            Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN3D, 175, 2075, 125)),
-            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN3D, 212, 2050, 125)),
-            Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -75, 275, -50)),
-            Enemy ("Ice Cherbil", EnemyList["413"], EnemyLocation (EnemyState.IN2D, -175, 450, 12)),
-            Enemy ("Ice Cherbil", EnemyList["413"], EnemyLocation (EnemyState.IN2D, -550, 1100, -12))
-        ),
-
-    ),
+    # 'an3_01':Map (
+    #     MapType.MAIN,
+    #     MapEnemies (
+    #         Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 0, 2325, -62)),
+    #         Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -62, 2300, -87)),
+    #         Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 725, 2237, 0)),
+    #         Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -700, 1375, 25)),
+    #         Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -700, 1350, 75)),
+    #         Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, 275, 1850, 0)),
+    #         Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN2D, -300, 1125, -37)),
+    #         Enemy ("Spiky Parabuzzy", EnemyList["58"], EnemyLocation (EnemyState.IN3D, 175, 2075, 125)),
+    #         Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN3D, 212, 2050, 125)),
+    #         Enemy ("Parabuzzy", EnemyList["57"], EnemyLocation (EnemyState.IN2D, -75, 275, -50)),
+    #         Enemy ("Ice Cherbil", EnemyList["413"], EnemyLocation (EnemyState.IN2D, -175, 450, 12)),
+    #         Enemy ("Ice Cherbil", EnemyList["413"], EnemyLocation (EnemyState.IN2D, -550, 1100, -12))
+    #     ),
+    # ),
     'mac_02':Map (
         MapType.MAIN,
         None,
