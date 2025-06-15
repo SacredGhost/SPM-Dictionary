@@ -2,9 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='spm_dictionary',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     include_package_data=True,
+    package_data={
+        'spm_dictionary': ['csv/*.csv']
+    },
     install_requires=[
         'dolphin-memory-engine',
     ],
@@ -19,5 +22,5 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.9',
 )
